@@ -1,0 +1,26 @@
+_repo: Rainbow-Bridge-National-Monument-Utah-1951_59811
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. National Park Service
+    aliases:
+    - National Park Service (U.S.)
+    - United States. Department of the Interior. National Park Service
+    - Service, National Park
+    - Service, United States National Park
+    gutenberg_agent_id: '45167'
+    url: http://www.gutenberg.org/2009/agents/45167
+    wikipedia: https://en.wikipedia.org/wiki/National_Park_Service
+description: ''
+gutenberg_issued: '2019-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rainbow Bridge National Monument, Utah (1951)
+url: http://www.gutenberg.org/ebooks/59811
